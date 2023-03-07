@@ -4,7 +4,7 @@ layout: default
 
 Johan Mendez.
 
-[Link to another page](./another-page.html).
+Soy johan y tengo 19 años,escribire mas sobre mi
 
 There should be whitespace between paragraphs.
 
