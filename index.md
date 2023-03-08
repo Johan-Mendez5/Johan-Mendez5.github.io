@@ -14,11 +14,11 @@ soy alguien que le gusta jugar videojuegos en online con mis amigos como fortnit
 
 Me gusta jugar futbol entrenarlo al igual que el basquetbol,escuchar musica mientras entreno o hago tareas,
 
-## Header 2
+## DEPORTES
 
-> This is a blockquote following a header.
+> De niño practicaba futbol gane 2 trofeos y una medalla,se me daba mucho el futbol que era facil estar en una escuela de futbol
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> ahora sigo jugando en un equipo y tambien basquetbol llevo meses jugando y practicando que se me da demasiado bien
 
 ### Header 3
 
