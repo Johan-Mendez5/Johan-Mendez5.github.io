@@ -40,11 +40,11 @@ y esdtudiar mi carrera para tener un papel a nivel superior
 *   tambien quisiera viajar con mi familia a varios estados 
     o incluso paises.
 
-##### Header 5
+##### HABILIDADES
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Manejar la computadora bien.
+2.  manejar los celulares perfectamente.
+3.  manejo de procesador de textos,exccel y powerpoint.
 
 ###### Header 6
 
