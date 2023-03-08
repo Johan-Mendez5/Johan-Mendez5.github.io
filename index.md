@@ -6,13 +6,13 @@ Johan Mendez.
 
 Soy johan y tengo 19 años,escribire mas sobre mi
 
-There should be whitespace between paragraphs.
+Hablare sobre mis pasatiempos,gustos,deportes y mas.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+soy alguien que le gusta jugar videojuegos en online con mis amigos como fortnite,warzone,rocket roblox etc
 
-# Header 1
+# PASATIEMPOS
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Me gusta jugar futbol entrenarlo al igual que el basquetbol,escuchar musica mientras entreno o hago tareas,
 
 ## Header 2
 
