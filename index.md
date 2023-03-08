@@ -33,9 +33,12 @@ y esdtudiar mi carrera para tener un papel a nivel superior
 
 #### METAS
 
-*   Mi primer meta es terminar mi carrera en este caso una ingieneria en sistemas es lo que quisiera estudiar.
-*   otra meta es comprarme una casa propia un carro y tener buena estabilidad economica.
-*   tambien quisiera viajar con mi familia a varios estados o incluso paises.
+*   Mi primer meta es terminar mi carrera en este caso una 
+    ingieneria en sistemas es lo que quisiera estudiar.
+*   otra meta es comprarme una casa propia un carro y tener
+    buena estabilidad economica.
+*   tambien quisiera viajar con mi familia a varios estados 
+    o incluso paises.
 
 ##### Header 5
 
