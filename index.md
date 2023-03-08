@@ -20,28 +20,22 @@ Me gusta jugar futbol entrenarlo al igual que el basquetbol,escuchar musica mien
 >
 > ahora sigo jugando en un equipo y tambien basquetbol llevo meses jugando y practicando que se me da demasiado bien
 
-### Header 3
+### nivel de estudios
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+eh acabado la primaria,secundaria y actualmente estoy cursando el bachillerato en mi ultimo semestre
+y la carrera tcnica de ofimatica
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```mi objetivo es terminar mi bachillerato
+y esdtudiar mi carrera para tener un papel a nivel superior
 ```
 
-#### Header 4
+#### METAS
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Mi primer meta es terminar mi carrera en este caso una ingieneria en sistemas es lo que quisiera estudiar.
+*   otra meta es comprarme una casa propia un carro y tener buena estabilidad economica.
+*   tambien quisiera viajar con mi familia a varios estados o incluso paises.
 
 ##### Header 5
 
